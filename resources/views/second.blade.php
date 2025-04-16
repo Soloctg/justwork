@@ -1,0 +1,1 @@
+<h1 class="mb-1 font-medium">Welcome to Second Page!</h1>
